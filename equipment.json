@@ -1,0 +1,595 @@
+{
+  "items": [{
+    "segmentFrom": "Front of House",
+    "deviceFrom": "FritzBox Sound",
+    "segmentTo": "",
+    "deviceTo": "Smartphones for In Ear Controls",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 6
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "HDMI Wifi Transmitter",
+    "segmentTo": "Stage",
+    "deviceTo": "HDMI Wifi Receiver",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 2
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "M32",
+    "segmentTo": "",
+    "deviceTo": "Mac Recording",
+    "connectionType": "USB-B",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "M32",
+    "segmentTo": "",
+    "deviceTo": "Sound Engineer Headphone",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "M32",
+    "segmentTo": "Front of House",
+    "deviceTo": "Router TP Link",
+    "connectionType": "CAT5",
+    "distance": "0.5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "Decibel meter",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "Mac Recording",
+    "connectionType": "Magsafe charger",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "Front of House",
+    "deviceTo": "FritzBox Sound",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "Front of House",
+    "deviceTo": "M32",
+    "connectionType": "3 pole power",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "Front of House",
+    "deviceTo": "ProPresenter Mac",
+    "connectionType": "Mac mini power cable",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "Front of House",
+    "deviceTo": "Router TP Link",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Power",
+    "segmentTo": "Front of House",
+    "deviceTo": "Spotify Tablet",
+    "connectionType": "USB-B to mini USB",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "ProPresenter Mac",
+    "segmentTo": "",
+    "deviceTo": "Bluetooth Keyboard",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "ProPresenter Mac",
+    "segmentTo": "",
+    "deviceTo": "Bluetooth Mouse",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "ProPresenter Mac",
+    "segmentTo": "",
+    "deviceTo": "Screen ProPresenter",
+    "connectionType": "USB-C to HDMI",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "ProPresenter Mac",
+    "segmentTo": "Front of House",
+    "deviceTo": "HDMI Wifi Transmitter",
+    "connectionType": "USB-B to USB-C Power",
+    "distance": "0.5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "ProPresenter Mac",
+    "segmentTo": "Front of House",
+    "deviceTo": "HDMI Wifi Transmitter",
+    "connectionType": "HDMI",
+    "distance": "0.5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "ProPresenter Mac",
+    "segmentTo": "Front of House",
+    "deviceTo": "M32",
+    "connectionType": "Jack single 3.5mm to double 6.3mm",
+    "distance": "3m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Router TP Link",
+    "segmentTo": "Front of House",
+    "deviceTo": "FritzBox Sound",
+    "connectionType": "CAT5",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Spotify Tablet",
+    "segmentTo": "Front of House",
+    "deviceTo": "M32",
+    "connectionType": "Jack single 3.5mm to double 6.3mm",
+    "distance": "0.5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Whisper Mic",
+    "segmentTo": "Front of House",
+    "deviceTo": "M32",
+    "connectionType": "XLR",
+    "distance": "0.5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Wifi Heeresbäckerei",
+    "segmentTo": "Front of House",
+    "deviceTo": "Router TP Link",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Front of House",
+    "deviceFrom": "Wireless mics",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Wireless mic receivers",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 2
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "Behringer USB Interface",
+    "segmentTo": "Livestream",
+    "deviceTo": "Mevo Cam",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "FritzBox Sound",
+    "segmentTo": "",
+    "deviceTo": "iPad Mevo Control",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "Mevo Cam",
+    "segmentTo": "Front of House",
+    "deviceTo": "FritzBox Sound",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "iPad Mevo Control",
+    "connectionType": "USB-B to Lightning",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "iPad YouTube Monitor",
+    "connectionType": "USB-B to Lightning",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "Power",
+    "segmentTo": "Livestream",
+    "deviceTo": "Mevo Cam",
+    "connectionType": "USB-B to mini USB",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Livestream",
+    "deviceFrom": "Wifi Heeresbäckerei",
+    "segmentTo": "",
+    "deviceTo": "iPad YouTube Monitor",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Battery 1.5V",
+    "segmentTo": "Front of House",
+    "deviceTo": "Wireless mics",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 4
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Battery 9V",
+    "segmentTo": "Stage",
+    "deviceTo": "In Ear Monitors",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 7
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "DI Boxes",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "5m",
+    "count": 3
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Drums",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "7.5m",
+    "count": 7
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Drums",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "10m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "HDMI Wifi Receiver",
+    "segmentTo": "",
+    "deviceTo": "Screens in Room",
+    "connectionType": "Via radio",
+    "distance": "",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "In Ear Monitors",
+    "segmentTo": "",
+    "deviceTo": "In Ear Headphones",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Interface Keys",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "Jack to XLR",
+    "distance": "6m",
+    "count": 4
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Keys",
+    "segmentTo": "Stage",
+    "deviceTo": "USB MIDI Interface",
+    "connectionType": "MIDI",
+    "distance": "3m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "MacBook Keys",
+    "segmentTo": "Stage",
+    "deviceTo": "Interface Keys",
+    "connectionType": "USB-B to USB-C Data",
+    "distance": "3m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "mini Korg",
+    "segmentTo": "Stage",
+    "deviceTo": "MacBook Keys",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Music Director",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "7.5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Other instruments",
+    "segmentTo": "Stage",
+    "deviceTo": "DI Boxes",
+    "connectionType": "Jack 6.3mm",
+    "distance": "3m",
+    "count": 3
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Other instruments",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "7.5m",
+    "count": 5
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Palmer Switcher",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "5m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "Lights on Floor",
+    "connectionType": "Power Twist",
+    "distance": "0.5m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "Lights on Stands",
+    "connectionType": "Power Twist",
+    "distance": "3m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "",
+    "deviceTo": "Screens in Room",
+    "connectionType": "2 pole power",
+    "distance": "3m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "Stage",
+    "deviceTo": "HDMI Wifi Receiver",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "Stage",
+    "deviceTo": "Interface Keys",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "Stage",
+    "deviceTo": "Keys",
+    "connectionType": "2 pole power",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Power",
+    "segmentTo": "Stage",
+    "deviceTo": "MacBook Keys",
+    "connectionType": "MacBook USB-C charger",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Speaker",
+    "segmentTo": "",
+    "deviceTo": "Speaker",
+    "connectionType": "Speakon",
+    "distance": "5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Speaker",
+    "segmentTo": "",
+    "deviceTo": "Speaker",
+    "connectionType": "Speakon",
+    "distance": "10m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "USB MIDI Interface",
+    "segmentTo": "Stage",
+    "deviceTo": "MacBook Keys",
+    "connectionType": "Direct",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stage",
+    "deviceFrom": "Vocal Mics",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "7.5m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Amps",
+    "segmentTo": "",
+    "deviceTo": "Speaker",
+    "connectionType": "Speakon",
+    "distance": "5m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Amps",
+    "segmentTo": "",
+    "deviceTo": "Speaker",
+    "connectionType": "Speakon",
+    "distance": "10m",
+    "count": 3
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Amps",
+    "segmentTo": "",
+    "deviceTo": "Speaker",
+    "connectionType": "Speakon",
+    "distance": "15m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Charger 1.5V",
+    "segmentTo": "Stage",
+    "deviceTo": "Battery 1.5V",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Charger 9V",
+    "segmentTo": "Stage",
+    "deviceTo": "Battery 9V",
+    "connectionType": "Direct",
+    "distance": "",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Digital Snake (AES50)",
+    "segmentTo": "",
+    "deviceTo": "Sub",
+    "connectionType": "XLR",
+    "distance": "5m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Digital Snake (AES50)",
+    "segmentTo": "Front of House",
+    "deviceTo": "M32",
+    "connectionType": "CAT5",
+    "distance": "50m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Digital Snake (AES50)",
+    "segmentTo": "Livestream",
+    "deviceTo": "Behringer USB Interface",
+    "connectionType": "Jack to XLR",
+    "distance": "10m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Digital Snake (AES50)",
+    "segmentTo": "Stage",
+    "deviceTo": "In Ear Monitors",
+    "connectionType": "XLR",
+    "distance": "5m",
+    "count": 8
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Digital Snake (AES50)",
+    "segmentTo": "Stage",
+    "deviceTo": "In Ear Monitors",
+    "connectionType": "XLR",
+    "distance": "7.5m",
+    "count": 4
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Digital Snake (AES50)",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Amps",
+    "connectionType": "XLR",
+    "distance": "1m",
+    "count": 4
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Power",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Amps",
+    "connectionType": "3 pole power",
+    "distance": "1m",
+    "count": 3
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Power",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Charger 1.5V",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Power",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Charger 9V",
+    "connectionType": "",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Power",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "3 pole power",
+    "distance": "1m",
+    "count": 1
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Power",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Wireless mic receivers",
+    "connectionType": "AC/DC 12V 300mA",
+    "distance": "1m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Wireless mic receivers",
+    "segmentTo": "Stagerack",
+    "deviceTo": "Digital Snake (AES50)",
+    "connectionType": "XLR",
+    "distance": "1m",
+    "count": 2
+  }, {
+    "segmentFrom": "Stagerack",
+    "deviceFrom": "Worship leader",
+    "segmentTo": "Stage",
+    "deviceTo": "Palmer Switcher",
+    "connectionType": "XLR",
+    "distance": "3m",
+    "count": 1
+  }]
+}

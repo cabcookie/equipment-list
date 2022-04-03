@@ -1,0 +1,22 @@
+{
+  "name": "equipment-list",
+  "version": "0.0.1",
+  "description": "standardizes the equipment list in a JSON file",
+  "main": "equipment.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabcookie/equipment-list.git"
+  },
+  "author": "Carsten Koch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cabcookie/equipment-list/issues"
+  },
+  "homepage": "https://github.com/cabcookie/equipment-list#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
