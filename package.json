@@ -1,6 +1,6 @@
 {
   "name": "equipment-list",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "standardizes the equipment list in a JSON file",
   "main": "equipment.json",
   "scripts": {
@@ -9,7 +9,6 @@
     "release": "standard-version",
     "release:major": "standard-version --release-as major"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cabcookie/equipment-list.git"
