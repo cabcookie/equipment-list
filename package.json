@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cabcookie/equipment-list.git"
+    "url": "git+https://github.com/mosaikberlin/equipment-list.git"
   },
   "author": "Carsten Koch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cabcookie/equipment-list/issues"
+    "url": "https://github.com/mosaikberlin/equipment-list/issues"
   },
-  "homepage": "https://github.com/cabcookie/equipment-list#readme",
+  "homepage": "https://github.com/mosaikberlin/equipment-list#readme",
   "devDependencies": {
     "standard-version": "^9.3.2"
   }
